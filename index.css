@@ -1,0 +1,45 @@
+ h2 {
+    color: #FF6B6B;
+  }
+  
+  h1 {
+    color: #8065b1;
+  }
+  
+  p{
+    color:#0c0c0c;
+  }
+  
+  h3 {
+    color: #FF6B6B;
+  }
+  
+img {
+  height: 300px;
+  width: 250px;
+}
+
+img {
+  height: 300px;
+  width: 250px;
+}
+.pic1, .pic2, .pic3 {
+  border: 3px solid #333;
+  box-shadow: 2px 4px 8px rgba(0,0,0,0.2);
+}
+.pic1 {
+  height: 400px;
+  width: 500px;
+}
+
+.pic2 {
+  height: 400px;
+  width: 290px;
+}
+.pic3 {
+  height: 300px;
+  width: 500px;
+}
+body {
+  background-color: #8AA399
+}
